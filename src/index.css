@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 50px;
+  min-height: 100vh;
+  position: relative;
+}
+.navbar {
+  background-color: #084c8b;
+  height: 90px;
+}
+footer {
+  background-color: #084c8b;
+  padding: 20px 0;
+  width: 100vw;
+  bottom: 0;
+  position: absolute;
+  font-family: "Times New Roman", Times, serif;
+}
+.navlink {
+  font-size: 1.2em;
+  font-family: "Times New Roman", Times, serif;
+}
+.mobilenav {
+  background-color: #084c8b;
+}
+.name {
+  font-size: 45px;
+  font-weight: bolder;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 10px;
+  color: #084c8b;
+}
