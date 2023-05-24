@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bae69738.css",
+    "main.js": "/static/js/main.c7c4c2b4.js",
+    "static/js/787.09ea11a1.chunk.js": "/static/js/787.09ea11a1.chunk.js",
+    "static/media/Awa-yasmine.png": "/static/media/Awa-yasmine.78eb5f085ea94c2ccf45.png",
+    "static/media/home.svg": "/static/media/home.abe0b0ceefb405bfc60d.svg",
+    "index.html": "/index.html",
+    "main.bae69738.css.map": "/static/css/main.bae69738.css.map",
+    "main.c7c4c2b4.js.map": "/static/js/main.c7c4c2b4.js.map",
+    "787.09ea11a1.chunk.js.map": "/static/js/787.09ea11a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bae69738.css",
+    "static/js/main.c7c4c2b4.js"
+  ]
+}
